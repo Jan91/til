@@ -36,6 +36,7 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 
  - [Notebook Profiles](jupyter/profiles.md)
  - [Automatically save .html and .py versions](jupyter/autosave_html_py.md)
+ - [Include Notebook output in version control](jupyter/include-output.md)
 
 ### JupyterHub
 
