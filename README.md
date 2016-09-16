@@ -31,6 +31,7 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 ### Python
 
  - [Starting Python 2 imports](python/python2_imports.md)
+ - [Grouping in Pandas Timeseries](python/grouping-in-pandas.md)
 
 ### Jupyter
 
