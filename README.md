@@ -16,6 +16,7 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 * [Mac](#mac)
 * [Markdown](#markdown)
 * [Matplotlib](#matplotlib)
+* [Scikit-learn](#scikit-learn)
 * [VPFIT](#vpfit)
 
 ---
@@ -59,6 +60,10 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 
  - [Using seaborn color palettes](matplotlib/using-seaborn-color-palette.md)
  - [Handle jpg file format](matplotlib/jpeg-support.md)
+
+### Scikit-learn
+
+ - [Random Forests Feature Importance Dataframe](scikit-learn/2016-12-01_jbw_random-forest-feature-importance.ipynb)
 
 ### VPFIT 
 
